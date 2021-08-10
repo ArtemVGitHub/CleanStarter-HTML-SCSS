@@ -1,0 +1,21 @@
+{
+	"name": "cleanstarter-html-scss",
+	"version": "1.0.0",
+	"description": "CleanStarter-HTML-SCSS 1 - Lightweight Gulp Starter",
+	"main": "index.js",
+	"author": "Code Factory",
+	"license": "ISC",
+	"scripts": {
+		"start": "gulp",
+		"build": "gulp build"
+	},
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"browser-sync": "^2.27.4",
+		"gulp-sass": "^5.0.0",
+		"sass": "^1.36.0",
+		"gulp-clean-css": "^4.3.0",
+		"gulp-autoprefixer": "^8.0.0",
+		"gulp-rename": "^2.0.0"
+	}
+}
